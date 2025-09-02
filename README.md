@@ -85,6 +85,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -106,6 +107,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0326-power-of-three](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
+| [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -126,6 +128,10 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
+## Brainteaser
+|  |
+| ------- |
+| [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
