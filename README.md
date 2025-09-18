@@ -116,6 +116,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
@@ -145,6 +146,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0278-first-bad-version) |
