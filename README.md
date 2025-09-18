@@ -76,6 +76,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0011-container-with-most-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0027-remove-element) |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -140,6 +141,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
