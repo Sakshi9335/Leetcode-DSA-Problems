@@ -86,6 +86,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
 ## Two Pointers
@@ -152,6 +153,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0074-search-a-2d-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
@@ -168,6 +170,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Counting
 |  |
 | ------- |
@@ -180,6 +183,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
