@@ -88,6 +88,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
 ## Two Pointers
 |  |
@@ -104,6 +105,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0001-two-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -184,6 +186,10 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
