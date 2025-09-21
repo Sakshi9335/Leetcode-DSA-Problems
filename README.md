@@ -92,6 +92,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0724-find-pivot-index](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2102-find-the-middle-index-in-array) |
@@ -103,6 +104,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0027-remove-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Hash Table
 |  |
@@ -174,6 +176,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
+| [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 ## Divide and Conquer
 |  |
 | ------- |
