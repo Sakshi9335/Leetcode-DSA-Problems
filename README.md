@@ -190,6 +190,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0278-first-bad-version](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0367-valid-perfect-square) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
 ## Brainteaser
 |  |
@@ -217,6 +218,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0278-first-bad-version) |
+| [0374-guess-number-higher-or-lower](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 ## Matrix
 |  |
 | ------- |
