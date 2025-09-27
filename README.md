@@ -158,6 +158,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0367-valid-perfect-square](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0830-largest-triangle-area](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
+| [1610-xor-operation-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
@@ -169,6 +170,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0342-power-of-four) |
+| [1610-xor-operation-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
 |  |
