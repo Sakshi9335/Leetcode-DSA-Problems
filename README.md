@@ -73,6 +73,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0027-remove-element) |
@@ -194,6 +195,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0069-sqrtx) |
@@ -226,6 +228,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0948-sort-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0948-sort-an-array) |
