@@ -151,6 +151,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0007-reverse-integer) |
+| [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0202-happy-number) |
@@ -170,6 +171,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
@@ -256,6 +258,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0258-add-digits) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Number Theory
@@ -289,6 +292,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
 <p align="center">
