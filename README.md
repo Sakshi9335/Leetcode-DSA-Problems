@@ -157,6 +157,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0007-reverse-integer) |
+| [0029-divide-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
@@ -178,6 +179,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0231-power-of-two) |
