@@ -168,6 +168,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0326-power-of-three](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0367-valid-perfect-square) |
+| [0371-sum-of-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
 | [0830-largest-triangle-area](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -186,6 +187,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0342-power-of-four) |
+| [0371-sum-of-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1610-xor-operation-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
