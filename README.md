@@ -97,6 +97,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0229-majority-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0724-find-pivot-index) |
@@ -222,6 +223,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
+| [0275-h-index-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0367-valid-perfect-square) |
