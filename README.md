@@ -94,6 +94,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
@@ -138,6 +139,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0001-two-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0202-happy-number) |
+| [0217-contains-duplicate](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
@@ -239,6 +241,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
+| [0217-contains-duplicate](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0274-h-index) |
