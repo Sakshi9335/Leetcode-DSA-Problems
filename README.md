@@ -187,6 +187,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
+| [3336-water-bottles-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3336-water-bottles-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -293,6 +294,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0258-add-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0258-add-digits) |
 | [1642-water-bottles](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
+| [3336-water-bottles-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3336-water-bottles-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Number Theory
 |  |
