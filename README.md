@@ -80,6 +80,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0073-set-matrix-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -137,6 +138,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0001-two-sum) |
+| [0073-set-matrix-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0217-contains-duplicate) |
@@ -270,6 +272,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 ## Prefix Sum
