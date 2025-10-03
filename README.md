@@ -173,6 +173,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0007-reverse-integer](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0029-divide-two-integers) |
+| [0050-powx-n](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
@@ -214,6 +215,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0342-power-of-four) |
