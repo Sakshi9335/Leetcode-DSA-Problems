@@ -136,6 +136,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0202-happy-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
 ## Hash Table
@@ -347,6 +348,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
+| [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
 ## Stack
 |  |
 | ------- |
