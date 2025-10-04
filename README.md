@@ -351,6 +351,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
