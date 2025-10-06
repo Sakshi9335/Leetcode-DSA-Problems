@@ -155,6 +155,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0229-majority-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -216,6 +217,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0287-find-the-duplicate-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
+| [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1610-xor-operation-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -274,6 +276,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0268-missing-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0274-h-index) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0948-sort-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -364,6 +367,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
+| [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
 ## Stack
 |  |
