@@ -199,6 +199,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0342-power-of-four](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
+| [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0830-largest-triangle-area](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
@@ -338,6 +339,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0059-spiral-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0258-add-digits) |
+| [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1642-water-bottles) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3336-water-bottles-ii) |
@@ -379,6 +381,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0151-reverse-words-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
+| [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
 ## Stack
 |  |
