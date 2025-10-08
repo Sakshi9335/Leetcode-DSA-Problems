@@ -106,6 +106,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0275-h-index-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
@@ -260,6 +261,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
