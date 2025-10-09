@@ -121,6 +121,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1603-running-sum-of-1d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -272,6 +273,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0907-koko-eating-bananas) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Brainteaser
 |  |
@@ -322,6 +324,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0073-set-matrix-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 ## Prefix Sum
 |  |
 | ------- |
