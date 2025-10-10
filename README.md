@@ -149,6 +149,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0287-find-the-duplicate-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
+| [0908-middle-of-the-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
@@ -419,6 +420,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
