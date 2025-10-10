@@ -412,6 +412,10 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
