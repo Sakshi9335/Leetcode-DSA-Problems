@@ -207,6 +207,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
@@ -257,6 +258,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
@@ -459,6 +461,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
