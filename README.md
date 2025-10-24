@@ -167,6 +167,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0908-middle-of-the-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2634-minimum-common-value](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2634-minimum-common-value) |
@@ -471,6 +472,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0234-palindrome-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Database
 |  |
 | ------- |
