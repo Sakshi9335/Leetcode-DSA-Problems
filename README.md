@@ -133,6 +133,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2331-intersection-of-multiple-arrays) |
@@ -189,6 +190,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2634-minimum-common-value](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2634-minimum-common-value) |
@@ -391,6 +393,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [1642-water-bottles](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [3336-water-bottles-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3336-water-bottles-ii) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -481,6 +484,10 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0627-swap-salary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0627-swap-salary) |
+## Design
+|  |
+| ------- |
+| [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
