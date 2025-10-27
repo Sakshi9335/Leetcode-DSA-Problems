@@ -8,7 +8,7 @@ class Solution {
                  for (int j = 0; j < s.length(); j++) 
                {
                 char ch = s.charAt(j);
-                if (s.charAt(j) == '1')
+                if (ch == '1')
                 {
                     count++;
                 }
