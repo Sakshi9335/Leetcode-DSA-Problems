@@ -245,6 +245,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2722-prime-in-diagonal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2722-prime-in-diagonal) |
 | [3336-water-bottles-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3336-water-bottles-ii) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -262,6 +263,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1610-xor-operation-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Recursion
 |  |
