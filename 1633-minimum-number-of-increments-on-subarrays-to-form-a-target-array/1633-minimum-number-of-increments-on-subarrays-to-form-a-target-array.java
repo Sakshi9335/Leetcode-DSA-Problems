@@ -3,8 +3,7 @@ class Solution {
         int n = target.length;
         int ans = target[0];
         for (int i =1; i<n;i++){
-             if(target[i]>target[i-1])
-              ans=ans+target[i]-target[i-1];
+             ans += Math.max(target[i] - target[i - 1], 0);
         }
         return ans;
     }
