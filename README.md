@@ -144,6 +144,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2448-count-number-of-bad-pairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2634-minimum-common-value](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2634-minimum-common-value) |
 | [2722-prime-in-diagonal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2722-prime-in-diagonal) |
+| [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3330-modify-the-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3330-modify-the-matrix) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -346,6 +347,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 ## Divide and Conquer
 |  |
@@ -384,6 +386,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2722-prime-in-diagonal) |
+| [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3330-modify-the-matrix) |
 ## Prefix Sum
 |  |
@@ -410,6 +413,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3336-water-bottles-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3447-clear-digits) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -424,6 +428,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0948-sort-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0948-sort-an-array) |
+| [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 ## Merge Sort
 |  |
 | ------- |
