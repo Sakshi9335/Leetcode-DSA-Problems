@@ -129,6 +129,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1603-running-sum-of-1d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1833-find-the-highest-altitude](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -212,6 +213,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Greedy
 |  |
 | ------- |
@@ -219,6 +221,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 ## Math
 |  |
 | ------- |
@@ -468,6 +471,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
+| [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3447-clear-digits) |
