@@ -1,6 +1,6 @@
 class Solution {
     public int maximumGap(int[] nums) {
-        Arrays.parallelSort(nums);
+        Arrays.sort(nums);
        long mx = -1L;
        long diff = 0L;
         for (int i = 1; i<nums.length;i++){
