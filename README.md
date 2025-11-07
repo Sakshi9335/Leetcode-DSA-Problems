@@ -249,6 +249,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0367-valid-perfect-square](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0371-sum-of-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
 | [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -427,6 +428,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0258-add-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0415-add-strings) |
 | [1642-water-bottles](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
@@ -482,6 +484,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
+| [0415-add-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
