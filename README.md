@@ -82,6 +82,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0035-search-insert-position](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
@@ -239,6 +240,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0007-reverse-integer](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0007-reverse-integer) |
 | [0029-divide-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0043-multiply-strings) |
+| [0048-rotate-image](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0069-sqrtx) |
@@ -397,6 +399,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
