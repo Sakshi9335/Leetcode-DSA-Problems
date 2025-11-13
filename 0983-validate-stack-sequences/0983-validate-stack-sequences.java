@@ -10,7 +10,7 @@ class Solution {
   
             }
         }
-         if (st.isEmpty()) 
+         if (st.isEmpty() || j == popped.length) 
             return true;
         else return false;
     }
