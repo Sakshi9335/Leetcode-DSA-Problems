@@ -125,6 +125,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0907-koko-eating-bananas](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0948-sort-an-array) |
+| [0983-validate-stack-sequences](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0983-validate-stack-sequences) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
@@ -439,6 +440,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0258-add-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0415-add-strings) |
+| [0983-validate-stack-sequences](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1642-water-bottles) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
@@ -514,6 +516,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0456-132-pattern](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
+| [0983-validate-stack-sequences](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0983-validate-stack-sequences) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3447-clear-digits) |
