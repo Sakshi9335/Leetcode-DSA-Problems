@@ -246,6 +246,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0050-powx-n](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
