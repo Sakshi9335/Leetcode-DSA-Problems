@@ -269,6 +269,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1018-largest-perimeter-triangle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1610-xor-operation-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1642-water-bottles](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1642-water-bottles) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -508,6 +509,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0415-add-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
 | [1250-longest-common-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
