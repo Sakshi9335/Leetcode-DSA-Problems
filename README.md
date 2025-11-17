@@ -80,6 +80,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
@@ -592,6 +593,10 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
