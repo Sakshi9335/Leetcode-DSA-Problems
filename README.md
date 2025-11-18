@@ -121,6 +121,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0503-next-greater-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0724-find-pivot-index) |
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0830-largest-triangle-area) |
