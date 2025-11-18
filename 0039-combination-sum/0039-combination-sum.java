@@ -1,27 +1,24 @@
 class Solution {
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-         List<List<Integer>> result = new ArrayList<>();
-        back(candidates, target, 0, new ArrayList<>(), result);
-        return result;
+        List<List<Integer>> res = new ArrayList<List<Integer>>();
+        ArrayList<Integer> curr = new ArrayList<>();
+        recur(candidates,target, 0, curr, res );
+        return res;
+
     }
-    
-    private void back(int[] candidates, int target, int indx,
-                           List<Integer> curr, List<List<Integer>> result) {
-
-        if (target == 0) {
-            result.add(new ArrayList<>(curr));
+    public void recur( int[] candidates, int target, int i ,  ArrayList<Integer> curr,List<List<Integer>> res )
+    {
+         if(i == candidates.length){
+            if(target == 0){
+                res.add(new ArrayList<Integer>(curr));
+            }
             return;
-        }
-
-        if (target < 0 || indx == candidates.length) {
-            return;
-        }
-
-    
-        curr.add(candidates[indx]);
-        back(candidates, target - candidates[indx], indx, curr, result);
-        curr.remove(curr.size() - 1);
-
-        back(candidates, target, indx + 1, curr, result);
+         }
+         if(candidates[i] <= target){
+            curr.add(candidates[i]);
+             recur(candidates,target - candidates[i], i, curr, res );
+            curr.remove(curr.size()-1);
+         }
+          recur(candidates,target, i+1, curr, res );
     }
 }
