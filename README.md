@@ -90,6 +90,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0059-spiral-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0088-merge-sorted-array) |
@@ -291,6 +292,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0029-divide-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0137-single-number-ii) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -602,6 +604,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0039-combination-sum) |
+| [0078-subsets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
