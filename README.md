@@ -118,6 +118,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0456-132-pattern](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0456-132-pattern) |
+| [0485-max-consecutive-ones](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
