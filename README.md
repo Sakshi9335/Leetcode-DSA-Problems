@@ -145,6 +145,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1833-find-the-highest-altitude](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
+| [2058-concatenation-of-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
@@ -460,6 +461,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0415-add-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0415-add-strings) |
 | [0983-validate-stack-sequences](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0983-validate-stack-sequences) |
 | [1642-water-bottles](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2058-concatenation-of-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
