@@ -138,6 +138,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1435-xor-queries-of-a-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1580-shuffle-the-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1677-matrix-diagonal-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
