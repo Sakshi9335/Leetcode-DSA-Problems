@@ -136,6 +136,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
@@ -550,6 +551,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0496-next-greater-element-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0983-validate-stack-sequences](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0983-validate-stack-sequences) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -561,6 +563,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0456-132-pattern](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Sliding Window
 |  |
@@ -594,6 +597,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0328-odd-even-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Database
