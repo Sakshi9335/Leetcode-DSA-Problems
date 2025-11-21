@@ -2,7 +2,8 @@ class Solution {
     public List<String> buildArray(int[] target, int n) {
         List<String> result = new ArrayList<>();
         int i =0;
-       for (int num = 1; num <= n; num++) {
+        int num =1;
+        while (i < target.length && num <= n) {
             if (i == target.length) 
                break;
                
@@ -13,6 +14,7 @@ class Solution {
                 result.add("Push");
                 result.add("Pop");
             }
+            num++;
         }
 
         return result;
