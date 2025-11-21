@@ -169,6 +169,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3330-modify-the-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3330-modify-the-matrix) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3541-report-spam-message](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3541-report-spam-message) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
@@ -227,6 +228,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2448-count-number-of-bad-pairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2634-minimum-common-value](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2634-minimum-common-value) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3541-report-spam-message](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3541-report-spam-message) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
@@ -534,6 +536,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3447-clear-digits) |
+| [3541-report-spam-message](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3541-report-spam-message) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
