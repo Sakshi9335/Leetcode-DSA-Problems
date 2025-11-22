@@ -236,6 +236,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -524,6 +525,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## String
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
@@ -544,6 +546,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Stack
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
