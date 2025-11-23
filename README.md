@@ -549,6 +549,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0032-longest-valid-parentheses](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
@@ -612,6 +613,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0155-min-stack) |
 | [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
 ## Depth-First Search
 |  |
