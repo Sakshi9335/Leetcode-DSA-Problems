@@ -224,6 +224,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
@@ -287,6 +288,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0795-k-th-symbol-in-grammar](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [0830-largest-triangle-area](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1610-xor-operation-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1610-xor-operation-in-an-array) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
