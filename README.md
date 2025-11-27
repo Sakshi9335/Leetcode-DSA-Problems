@@ -107,6 +107,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0217-contains-duplicate) |
@@ -272,6 +273,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0172-factorial-trailing-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0258-add-digits) |
@@ -499,6 +501,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0258-add-digits) |
 | [2722-prime-in-diagonal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2722-prime-in-diagonal) |
 ## Heap (Priority Queue)
@@ -644,6 +647,10 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0046-permutations](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0078-subsets) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
