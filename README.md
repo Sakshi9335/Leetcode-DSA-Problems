@@ -174,6 +174,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2722-prime-in-diagonal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2836-neither-minimum-nor-maximum) |
+| [2865-beautiful-towers-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2865-beautiful-towers-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3330-modify-the-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3330-modify-the-matrix) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -589,6 +590,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1552-build-an-array-with-stack-operations](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2865-beautiful-towers-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2865-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -600,6 +602,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0739-daily-temperatures](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2865-beautiful-towers-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2865-beautiful-towers-i) |
 ## Sliding Window
 |  |
 | ------- |
