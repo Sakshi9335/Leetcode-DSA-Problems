@@ -282,6 +282,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
+| [0223-rectangle-area](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0223-rectangle-area) |
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0258-add-digits) |
@@ -548,6 +549,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Geometry
 |  |
 | ------- |
+| [0223-rectangle-area](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0223-rectangle-area) |
 | [0830-largest-triangle-area](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0830-largest-triangle-area) |
 ## String
 |  |
