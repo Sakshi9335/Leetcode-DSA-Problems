@@ -147,6 +147,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
@@ -598,6 +599,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0739-daily-temperatures](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0983-validate-stack-sequences](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0983-validate-stack-sequences) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2211-count-collisions-on-a-road) |
@@ -613,6 +615,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0503-next-greater-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0739-daily-temperatures) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
+| [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2865-beautiful-towers-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2865-beautiful-towers-i) |
 ## Sliding Window
