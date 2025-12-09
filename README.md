@@ -186,6 +186,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3541-report-spam-message](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3541-report-spam-message) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3583-count-special-triplets) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
@@ -250,6 +251,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3541-report-spam-message](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3541-report-spam-message) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3583-count-special-triplets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3583-count-special-triplets) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
@@ -454,6 +456,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [3583-count-special-triplets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3583-count-special-triplets) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Interactive
 |  |
