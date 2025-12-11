@@ -235,6 +235,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0290-word-pattern](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0496-next-greater-element-i) |
@@ -454,6 +455,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
@@ -576,6 +578,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0151-reverse-words-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0290-word-pattern) |
+| [0387-first-unique-character-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0415-add-strings) |
@@ -697,6 +700,10 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0204-count-primes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-square-sum-triples) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
