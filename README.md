@@ -189,6 +189,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3541-report-spam-message](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3541-report-spam-message) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
@@ -256,6 +257,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3541-report-spam-message](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3541-report-spam-message) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3583-count-special-triplets) |
+| [3606-coupon-code-validator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3606-coupon-code-validator) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
@@ -443,6 +445,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2836-neither-minimum-nor-maximum) |
+| [3606-coupon-code-validator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3606-coupon-code-validator) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -596,6 +599,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [3447-clear-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3447-clear-digits) |
 | [3541-report-spam-message](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3541-report-spam-message) |
+| [3606-coupon-code-validator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3606-coupon-code-validator) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Stack
 |  |
