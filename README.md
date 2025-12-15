@@ -191,6 +191,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3583-count-special-triplets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3606-coupon-code-validator) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
 |  |
@@ -258,6 +259,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3606-coupon-code-validator) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
@@ -333,6 +335,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Bit Manipulation
 |  |
@@ -576,6 +579,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0223-rectangle-area](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0223-rectangle-area) |
 | [0830-largest-triangle-area](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0830-largest-triangle-area) |
+| [3623-count-number-of-trapezoids-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 ## String
 |  |
 | ------- |
