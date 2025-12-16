@@ -204,6 +204,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -424,6 +425,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -454,6 +456,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -557,6 +560,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0148-sort-list) |
 | [0948-sort-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0948-sort-an-array) |
 ## Bucket Sort
 |  |
@@ -670,6 +674,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
