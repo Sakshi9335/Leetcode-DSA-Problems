@@ -125,6 +125,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0414-third-maximum-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
@@ -214,6 +215,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0234-palindrome-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
+| [0475-heaters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0475-heaters) |
 | [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
 | [0633-sum-of-square-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
@@ -407,6 +409,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0374-guess-number-higher-or-lower](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0456-132-pattern](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0456-132-pattern) |
+| [0475-heaters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0475-heaters) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
@@ -442,6 +445,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0475-heaters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0475-heaters) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0941-sort-array-by-parity](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0948-sort-an-array) |
