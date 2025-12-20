@@ -141,6 +141,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0882-peak-index-in-a-mountain-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0907-koko-eating-bananas) |
 | [0941-sort-array-by-parity](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0941-sort-array-by-parity) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0948-sort-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0948-sort-an-array) |
 | [0983-validate-stack-sequences](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0983-validate-stack-sequences) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -608,6 +609,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [1250-longest-common-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
