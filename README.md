@@ -535,6 +535,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1603-running-sum-of-1d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1833-find-the-highest-altitude](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1833-find-the-highest-altitude) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2102-find-the-middle-index-in-array) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -632,6 +633,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2211-count-collisions-on-a-road](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2483-minimum-penalty-for-a-shop](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3447-clear-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3447-clear-digits) |
 | [3541-report-spam-message](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3541-report-spam-message) |
 | [3606-coupon-code-validator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3606-coupon-code-validator) |
