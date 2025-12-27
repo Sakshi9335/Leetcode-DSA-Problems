@@ -194,6 +194,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3523-make-array-non-decreasing](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3523-make-array-non-decreasing) |
 | [3541-report-spam-message](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3541-report-spam-message) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3583-count-special-triplets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3583-count-special-triplets) |
@@ -297,6 +298,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
+| [3523-make-array-non-decreasing](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3523-make-array-non-decreasing) |
 ## Math
 |  |
 | ------- |
@@ -668,6 +670,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2865-beautiful-towers-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2865-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3447-clear-digits) |
+| [3523-make-array-non-decreasing](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3523-make-array-non-decreasing) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -683,6 +686,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2865-beautiful-towers-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2865-beautiful-towers-i) |
+| [3523-make-array-non-decreasing](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3523-make-array-non-decreasing) |
 ## Sliding Window
 |  |
 | ------- |
