@@ -90,6 +90,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0054-spiral-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0057-insert-interval](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0057-insert-interval) |
 | [0059-spiral-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
+| [0066-plus-one](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0078-subsets) |
@@ -313,6 +314,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0043-multiply-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
+| [0066-plus-one](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0069-sqrtx) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0172-factorial-trailing-zeroes) |
