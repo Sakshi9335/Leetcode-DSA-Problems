@@ -755,6 +755,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Database
 |  |
 | ------- |
+| [0181-employees-earning-more-than-their-managers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0627-swap-salary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0627-swap-salary) |
 ## Design
 |  |
