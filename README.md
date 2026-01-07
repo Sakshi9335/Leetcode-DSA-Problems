@@ -342,6 +342,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0504-base-7](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0504-base-7) |
 | [0523-continuous-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -651,6 +652,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0402-remove-k-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0415-add-strings) |
+| [0504-base-7](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0504-base-7) |
 | [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0944-delete-columns-to-make-sorted) |
