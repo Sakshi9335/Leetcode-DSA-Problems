@@ -1,8 +1,8 @@
 class Solution {
     public int minTimeToVisitAllPoints(int[][] points) {
          int totalTime = 0;
-
-        for (int i = 0; i < points.length - 1; i++) {
+          int n = points.length - 1;
+        for (int i = 0; i <n; i++) {
             int[] curr = points[i];
             int[] next = points[i + 1];
 
