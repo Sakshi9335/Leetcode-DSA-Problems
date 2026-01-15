@@ -75,6 +75,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0001-two-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0033-search-in-rotated-sorted-array) |
@@ -652,6 +653,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0058-length-of-last-word) |
@@ -810,6 +812,10 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0387-first-unique-character-in-a-string) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
