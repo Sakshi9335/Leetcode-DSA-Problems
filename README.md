@@ -136,6 +136,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0540-single-element-in-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -271,6 +272,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0496-next-greater-element-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0523-continuous-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -398,6 +400,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0342-power-of-four](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
@@ -494,6 +497,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0475-heaters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0611-valid-triangle-number) |
+| [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0853-car-fleet](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0853-car-fleet) |
