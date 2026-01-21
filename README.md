@@ -103,6 +103,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0136-single-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0137-single-number-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0162-find-peak-element) |
@@ -335,6 +336,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0066-plus-one](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0069-sqrtx) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0202-happy-number) |
@@ -703,6 +705,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0155-min-stack) |
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [0234-palindrome-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0234-palindrome-linked-list) |
