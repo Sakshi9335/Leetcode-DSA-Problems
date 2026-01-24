@@ -181,6 +181,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [1833-find-the-highest-altitude](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1833-find-the-highest-altitude) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [2058-concatenation-of-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2102-find-the-middle-index-in-array) |
@@ -247,6 +248,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0908-middle-of-the-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0941-sort-array-by-parity](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0941-sort-array-by-parity) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
@@ -322,6 +324,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1018-largest-perimeter-triangle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3523-make-array-non-decreasing](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3523-make-array-non-decreasing) |
@@ -515,6 +518,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1018-largest-perimeter-triangle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2331-intersection-of-multiple-arrays) |
