@@ -183,6 +183,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1833-find-the-highest-altitude](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2102-find-the-middle-index-in-array) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -519,6 +520,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2331-intersection-of-multiple-arrays) |
@@ -767,6 +769,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0713-subarray-product-less-than-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Combinatorics
 |  |
 | ------- |
