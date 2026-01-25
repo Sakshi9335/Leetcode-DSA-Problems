@@ -127,6 +127,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0414-third-maximum-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0414-third-maximum-number) |
+| [0416-partition-equal-subset-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0456-132-pattern](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0475-heaters) |
@@ -308,6 +309,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0392-is-subsequence) |
+| [0416-partition-equal-subset-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
