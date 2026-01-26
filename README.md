@@ -165,6 +165,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1046-last-stone-weight](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1046-last-stone-weight) |
+| [1200-minimum-absolute-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1266-minimum-time-visiting-all-points) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -520,6 +521,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0948-sort-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0948-sort-an-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
+| [1200-minimum-absolute-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
