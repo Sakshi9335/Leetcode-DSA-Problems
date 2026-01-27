@@ -140,6 +140,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0611-valid-triangle-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
+| [0705-design-hashset](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0717-1-bit-and-2-bit-characters) |
@@ -282,6 +283,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0523-continuous-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0706-design-hashmap) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -808,6 +810,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0237-delete-node-in-a-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0237-delete-node-in-a-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
+| [0705-design-hashset](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0706-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
@@ -823,6 +826,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0155-min-stack) |
+| [0705-design-hashset](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0706-design-hashmap) |
 | [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
 ## Depth-First Search
@@ -861,6 +865,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
 <p align="center">
