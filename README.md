@@ -812,6 +812,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0445-add-two-numbers-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0705-design-hashset](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0707-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -828,6 +829,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0155-min-stack](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0155-min-stack) |
 | [0705-design-hashset](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0706-design-hashmap) |
+| [0707-design-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0707-design-linked-list) |
 | [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
 ## Depth-First Search
 |  |
