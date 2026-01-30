@@ -12,8 +12,7 @@ class Solution {
     public ListNode insertionSortList(ListNode head) {
         ListNode dummy = new ListNode(-1);
         ListNode curr = head;
-        if(head == null)
-         return head;
+       
          while(curr != null)
         {
             ListNode next = curr.next;
