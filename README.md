@@ -208,6 +208,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [2865-beautiful-towers-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2865-beautiful-towers-i) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -543,6 +544,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2836-neither-minimum-nor-maximum) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3606-coupon-code-validator) |
@@ -865,6 +867,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0204-count-primes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-square-sum-triples) |
+| [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Queue
 |  |
 | ------- |
