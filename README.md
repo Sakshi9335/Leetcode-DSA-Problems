@@ -448,6 +448,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0390-elimination-game](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0390-elimination-game) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
@@ -759,6 +760,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2211-count-collisions-on-a-road](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2865-beautiful-towers-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2865-beautiful-towers-i) |
 | [3447-clear-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3447-clear-digits) |
 | [3523-make-array-non-decreasing](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3523-make-array-non-decreasing) |
@@ -776,6 +778,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [2865-beautiful-towers-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2865-beautiful-towers-i) |
 | [3523-make-array-non-decreasing](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3523-make-array-non-decreasing) |
 ## Sliding Window
@@ -827,6 +830,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0908-middle-of-the-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Database
 |  |
