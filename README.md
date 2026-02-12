@@ -141,6 +141,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0611-valid-triangle-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
+| [0704-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0704-binary-search) |
 | [0705-design-hashset](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0706-design-hashmap) |
 | [0713-subarray-product-less-than-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
@@ -488,6 +489,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0633-sum-of-square-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
+| [0704-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
