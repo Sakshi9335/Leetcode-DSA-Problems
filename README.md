@@ -323,6 +323,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0509-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
 | [1250-longest-common-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
@@ -378,6 +379,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0415-add-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0415-add-strings) |
 | [0445-add-two-numbers-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0445-add-two-numbers-ii) |
 | [0504-base-7](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0504-base-7) |
+| [0509-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
@@ -449,12 +451,14 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0326-power-of-three](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0390-elimination-game) |
+| [0509-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
 | [2487-remove-nodes-from-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2487-remove-nodes-from-linked-list) |
 ## Memoization
 |  |
 | ------- |
+| [0509-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
 ## Binary Search
