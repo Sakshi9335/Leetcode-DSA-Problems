@@ -111,6 +111,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
+| [0198-house-robber](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0215-kth-largest-element-in-an-array) |
@@ -322,6 +323,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0070-climbing-stairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0198-house-robber](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0198-house-robber) |
 | [0392-is-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0509-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0509-fibonacci-number) |
