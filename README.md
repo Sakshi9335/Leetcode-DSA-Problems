@@ -319,6 +319,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0032-longest-valid-parentheses](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0392-is-subsequence) |
@@ -358,6 +359,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0066-plus-one](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
@@ -458,6 +460,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
