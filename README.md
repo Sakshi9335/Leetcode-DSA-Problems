@@ -434,6 +434,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0389-find-the-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0693-binary-number-with-alternating-bits) |
 | [0795-k-th-symbol-in-grammar](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0795-k-th-symbol-in-grammar) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
