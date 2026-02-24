@@ -357,6 +357,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0002-add-two-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0007-reverse-integer) |
+| [0009-palindrome-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
