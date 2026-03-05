@@ -323,6 +323,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0032-longest-valid-parentheses](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -364,6 +365,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0043-multiply-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0043-multiply-strings) |
 | [0048-rotate-image](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0069-sqrtx) |
@@ -816,6 +818,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Combinatorics
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0062-unique-paths) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 ## Tree
 |  |
