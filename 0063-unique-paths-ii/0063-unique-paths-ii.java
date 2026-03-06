@@ -11,7 +11,7 @@ class Solution {
      return solve(obstacleGrid,dp,0,0,m,n);
     }
     public int solve(int[][]Grid , int [][]dp, int i, int j, int m,int n){
-          if(i >= m || j >= n)
+         if(i < 0 || j < 0 || i >= m || j >= n)
             return 0;
 
         if(Grid[i][j] == 1)
