@@ -275,6 +275,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0141-linked-list-cycle) |
@@ -727,6 +728,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0014-longest-common-prefix) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0043-multiply-strings) |
@@ -811,6 +813,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0219-contains-duplicate-ii) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
