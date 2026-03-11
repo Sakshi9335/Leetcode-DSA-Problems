@@ -888,6 +888,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0200-number-of-islands) |
+| [0797-all-paths-from-source-to-target](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Ordered Set
 |  |
 | ------- |
@@ -904,6 +905,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0046-permutations](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0078-subsets) |
+| [0797-all-paths-from-source-to-target](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Enumeration
 |  |
 | ------- |
@@ -927,11 +929,16 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0200-number-of-islands) |
+| [0797-all-paths-from-source-to-target](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [0994-rotting-oranges](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0994-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0200-number-of-islands) |
+## Graph Theory
+|  |
+| ------- |
+| [0797-all-paths-from-source-to-target](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0797-all-paths-from-source-to-target) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
