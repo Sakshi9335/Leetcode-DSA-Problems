@@ -114,6 +114,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0169-majority-element](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0213-house-robber-ii) |
@@ -615,6 +616,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0064-minimum-path-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0074-search-a-2d-matrix) |
+| [0200-number-of-islands](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0994-rotting-oranges](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0994-rotting-oranges) |
@@ -885,6 +887,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0200-number-of-islands](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0200-number-of-islands) |
 ## Ordered Set
 |  |
 | ------- |
@@ -923,7 +926,12 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Breadth-First Search
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0994-rotting-oranges) |
+## Union-Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
