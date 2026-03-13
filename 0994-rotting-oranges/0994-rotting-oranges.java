@@ -3,11 +3,8 @@ class Solution {
       
         int n = grid.length;
         int m = grid[0].length;
-
         int ans = 0;
-
         boolean[][] vis = new boolean[n][m];
-
         Queue<int[]> q = new LinkedList<>();
 
         for(int i = 0; i < n; i++){
