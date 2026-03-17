@@ -82,6 +82,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
@@ -282,6 +283,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0001-two-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0073-set-matrix-zeroes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0073-set-matrix-zeroes) |
 | [0141-linked-list-cycle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0141-linked-list-cycle) |
@@ -616,6 +618,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0036-valid-sudoku) |
+| [0037-sudoku-solver](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0059-spiral-matrix-ii) |
@@ -916,6 +919,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0051-n-queens) |
