@@ -87,6 +87,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0041-first-missing-positive](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0053-maximum-subarray) |
@@ -541,6 +542,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0047-permutations-ii) |
 | [0088-merge-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0088-merge-sorted-array) |
 | [0147-insertion-sort-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0148-sort-list) |
@@ -922,6 +924,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0037-sudoku-solver](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0090-subsets-ii) |
