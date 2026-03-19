@@ -348,6 +348,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0509-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0509-fibonacci-number) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -768,6 +769,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0944-delete-columns-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1143-longest-common-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
