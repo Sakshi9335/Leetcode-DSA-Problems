@@ -202,6 +202,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1833-find-the-highest-altitude](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1833-find-the-highest-altitude) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1980-find-unique-binary-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2058-concatenation-of-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2058-concatenation-of-array) |
 | [2102-find-the-middle-index-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2102-find-the-middle-index-in-array) |
@@ -316,6 +317,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
+| [1980-find-unique-binary-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1980-find-unique-binary-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2169-simple-bank-system](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2169-simple-bank-system) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -775,6 +777,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1250-longest-common-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1250-longest-common-subsequence) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1700-minimum-time-to-make-rope-colorful) |
+| [1980-find-unique-binary-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1980-find-unique-binary-string) |
 | [2211-count-collisions-on-a-road](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2211-count-collisions-on-a-road) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
@@ -933,6 +936,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0078-subsets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0090-subsets-ii) |
 | [0797-all-paths-from-source-to-target](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0797-all-paths-from-source-to-target) |
+| [1980-find-unique-binary-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1980-find-unique-binary-string) |
 ## Enumeration
 |  |
 | ------- |
