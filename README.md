@@ -351,6 +351,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0416-partition-equal-subset-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0509-fibonacci-number) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1137-n-th-tribonacci-number) |
@@ -770,6 +771,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0415-add-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0504-base-7) |
+| [0516-longest-palindromic-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
 | [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0944-delete-columns-to-make-sorted) |
