@@ -143,6 +143,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0456-132-pattern](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0456-132-pattern) |
 | [0475-heaters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0475-heaters) |
 | [0485-max-consecutive-ones](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0485-max-consecutive-ones) |
+| [0494-target-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0494-target-sum) |
 | [0496-next-greater-element-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0523-continuous-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
@@ -348,6 +349,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0213-house-robber-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0213-house-robber-ii) |
 | [0392-is-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
+| [0494-target-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0494-target-sum) |
 | [0509-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1013-fibonacci-number) |
@@ -935,6 +937,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0051-n-queens](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0090-subsets-ii) |
+| [0494-target-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0494-target-sum) |
 | [0797-all-paths-from-source-to-target](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0797-all-paths-from-source-to-target) |
 | [1980-find-unique-binary-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1980-find-unique-binary-string) |
 ## Enumeration
