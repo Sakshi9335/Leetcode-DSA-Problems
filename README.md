@@ -344,6 +344,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0063-unique-paths-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0198-house-robber) |
@@ -761,6 +762,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0043-multiply-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0067-add-binary) |
+| [0072-edit-distance](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0072-edit-distance) |
 | [0151-reverse-words-in-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0151-reverse-words-in-a-string) |
 | [0224-basic-calculator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0224-basic-calculator) |
 | [0290-word-pattern](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0290-word-pattern) |
