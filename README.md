@@ -132,6 +132,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0274-h-index](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0274-h-index) |
 | [0275-h-index-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0275-h-index-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0303-range-sum-query-immutable](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0303-range-sum-query-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
@@ -349,6 +350,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0198-house-robber](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0213-house-robber-ii) |
+| [0300-longest-increasing-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0392-is-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0392-is-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0416-partition-equal-subset-sum) |
 | [0494-target-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0494-target-sum) |
@@ -521,6 +523,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0275-h-index-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0275-h-index-ii) |
 | [0278-first-bad-version](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0287-find-the-duplicate-number) |
+| [0300-longest-increasing-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0374-guess-number-higher-or-lower) |
