@@ -779,6 +779,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0451-sort-characters-by-frequency](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0451-sort-characters-by-frequency) |
 | [0504-base-7](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0504-base-7) |
 | [0516-longest-palindromic-subsequence](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0516-longest-palindromic-subsequence) |
+| [0521-longest-uncommon-subsequence-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0541-reverse-string-ii) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0944-delete-columns-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0944-delete-columns-to-make-sorted) |
