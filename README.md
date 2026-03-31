@@ -152,6 +152,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0540-single-element-in-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0704-binary-search) |
@@ -419,6 +420,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0504-base-7](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0504-base-7) |
 | [0509-fibonacci-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0509-fibonacci-number) |
 | [0523-continuous-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0523-continuous-subarray-sum) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0633-sum-of-square-numbers) |
 | [0668-kth-smallest-number-in-multiplication-table](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0668-kth-smallest-number-in-multiplication-table) |
 | [0754-reach-a-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0754-reach-a-number) |
@@ -577,6 +579,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0455-assign-cookies](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0475-heaters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0475-heaters) |
 | [0611-valid-triangle-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0611-valid-triangle-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
