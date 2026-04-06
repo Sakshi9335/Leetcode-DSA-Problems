@@ -27,7 +27,6 @@ class Solution {
 
             for (int i = 0; i < size; i++) {
                 TreeNode temp = q.poll();
-
                 list.add(temp.val);
 
                 if (temp.left != null) {
