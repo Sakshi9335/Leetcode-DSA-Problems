@@ -883,6 +883,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
 |  |
@@ -892,6 +893,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 ## Linked List
 |  |
@@ -944,6 +946,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0207-course-schedule) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0543-diameter-of-binary-tree) |
 | [0797-all-paths-from-source-to-target](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0797-all-paths-from-source-to-target) |
 ## Ordered Set
@@ -1008,6 +1011,10 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0207-course-schedule) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
