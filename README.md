@@ -880,6 +880,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -891,6 +892,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
@@ -945,6 +947,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0100-same-tree](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0100-same-tree) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0200-number-of-islands) |
@@ -997,6 +1000,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0200-number-of-islands](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0207-course-schedule) |
