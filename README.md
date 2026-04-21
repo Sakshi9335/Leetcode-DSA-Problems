@@ -817,6 +817,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -882,6 +883,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
@@ -894,6 +896,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0102-binary-tree-level-order-traversal) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0222-count-complete-tree-nodes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0222-count-complete-tree-nodes) |
@@ -910,6 +913,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0024-swap-nodes-in-pairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0024-swap-nodes-in-pairs) |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0083-remove-duplicates-from-sorted-list) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0141-linked-list-cycle) |
 | [0147-insertion-sort-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0147-insertion-sort-list) |
 | [0148-sort-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0148-sort-list) |
@@ -948,6 +952,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0100-same-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0145-binary-tree-postorder-traversal) |
 | [0200-number-of-islands](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0200-number-of-islands) |
