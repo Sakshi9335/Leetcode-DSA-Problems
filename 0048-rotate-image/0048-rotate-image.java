@@ -10,13 +10,13 @@ class Solution {
             }
         }
           for (int i = 0; i < n; i++) {
-        int s = 0, e= n - 1;
-        while (s < e) {
-            int temp = matrix[i][s];
-            matrix[i][s] = matrix[i][e];
-            matrix[i][e] = temp;
-            s++;
-            e--;
+        int start = 0, end= n - 1;
+        while (start < end) {
+            int temp = matrix[i][start];
+            matrix[i][start] = matrix[i][end];
+            matrix[i][end] = temp;
+            start++;
+            end--;
         }
     }
     }
