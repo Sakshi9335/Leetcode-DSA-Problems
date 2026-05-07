@@ -224,6 +224,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
 | [2634-minimum-common-value](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2634-minimum-common-value) |
+| [2679-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2836-neither-minimum-nor-maximum) |
@@ -605,6 +606,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2274-keep-multiplying-found-values-by-two](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2331-intersection-of-multiple-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2331-intersection-of-multiple-arrays) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2679-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [2836-neither-minimum-nor-maximum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2836-neither-minimum-nor-maximum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
@@ -667,6 +669,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
+| [2679-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2722-prime-in-diagonal) |
 | [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3330-modify-the-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3330-modify-the-matrix) |
@@ -715,6 +718,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2679-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3336-water-bottles-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3336-water-bottles-ii) |
 | [3447-clear-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3447-clear-digits) |
@@ -737,6 +741,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0948-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1046-last-stone-weight) |
+| [2679-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 ## Merge Sort
 |  |
