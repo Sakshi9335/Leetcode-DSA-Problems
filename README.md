@@ -223,6 +223,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2634-minimum-common-value](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2634-minimum-common-value) |
 | [2679-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2722-prime-in-diagonal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2722-prime-in-diagonal) |
@@ -718,6 +719,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 | [3336-water-bottles-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3336-water-bottles-ii) |
