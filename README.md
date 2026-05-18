@@ -448,6 +448,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1817-calculate-money-in-leetcode-bank](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1925-count-nice-pairs-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-nice-pairs-in-an-array) |
 | [1925-count-square-sum-triples](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1952-three-divisors) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
@@ -731,6 +732,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0204-count-primes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1952-three-divisors) |
 | [2722-prime-in-diagonal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2722-prime-in-diagonal) |
 ## Heap (Priority Queue)
 |  |
@@ -999,6 +1001,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0204-count-primes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1952-three-divisors) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 ## Queue
 |  |
