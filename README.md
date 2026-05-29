@@ -236,6 +236,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3074-apple-redistribution-into-boxes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3330-modify-the-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3330-modify-the-matrix) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3397-find-the-integer-added-to-array-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3397-find-the-integer-added-to-array-i) |
@@ -460,6 +461,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2722-prime-in-diagonal](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2722-prime-in-diagonal) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3336-water-bottles-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3336-water-bottles-ii) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
