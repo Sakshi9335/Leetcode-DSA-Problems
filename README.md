@@ -177,6 +177,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0948-sort-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0948-sort-an-array) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [0983-validate-stack-sequences](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0983-validate-stack-sequences) |
 | [0994-rotting-oranges](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
@@ -286,6 +287,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0908-middle-of-the-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0908-middle-of-the-linked-list) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0941-sort-array-by-parity) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -607,6 +609,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0922-sort-array-by-parity-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0941-sort-array-by-parity) |
 | [0948-sort-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0948-sort-an-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1018-largest-perimeter-triangle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1200-minimum-absolute-difference) |
