@@ -798,6 +798,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0014-longest-common-prefix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0043-multiply-strings](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0043-multiply-strings) |
 | [0058-length-of-last-word](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0058-length-of-last-word) |
@@ -840,6 +841,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0084-largest-rectangle-in-histogram) |
