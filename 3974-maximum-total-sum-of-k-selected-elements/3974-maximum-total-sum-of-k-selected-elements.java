@@ -14,7 +14,7 @@ class Solution {
                 sum=sum+kmax[i];
             }   
             else{
-             sum += 1L*mul*kmax[i];
+            sum += (long)mul * kmax[i];
             mul--;
             }
         }
