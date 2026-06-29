@@ -167,6 +167,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0739-daily-temperatures](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0830-largest-triangle-area) |
 | [0853-car-fleet](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0853-car-fleet) |
@@ -396,6 +397,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0402-remove-k-digits](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0611-valid-triangle-number) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1018-largest-perimeter-triangle) |
@@ -613,6 +615,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0853-car-fleet) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0922-sort-array-by-parity-ii) |
 | [0941-sort-array-by-parity](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0941-sort-array-by-parity) |
@@ -866,6 +869,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0496-next-greater-element-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0853-car-fleet) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0983-validate-stack-sequences](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0983-validate-stack-sequences) |
@@ -890,6 +894,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0496-next-greater-element-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0739-daily-temperatures) |
+| [0769-max-chunks-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0853-car-fleet) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-next-greater-node-in-linked-list) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
