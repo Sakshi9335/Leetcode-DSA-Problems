@@ -2,24 +2,21 @@ import java.util.*;
 
 class Solution {
     public long maxSum(int[] nums, int k, int mul) {
-        long sum = 0;
-
-        // sort in descending order
         Arrays.sort(nums);
-        int n = nums.length;
-
-        int i = n - 1; // start from largest element
-
-        while (k > 0 && i >= 0) {
-            if (mul > 0) {
-                sum += 1L * mul * nums[i];
-                mul--;
-            } else {
-                sum += nums[i];
+        int n=nums.length;
+        int[]kmax=new int[k];
+        for(int i=0;i<k;i++){
+            kmax[i]=nums[n-1-i];
+        }
+        long sum=0;
+        for(int i=0;i<k;i++){
+            if(mul<=0){
+                sum=sum+kmax[i];
+            }   
+            else{
+             sum += 1L*mul*kmax[i];
+            mul--;
             }
-
-            i--;
-            k--;
         }
 
         return sum;
