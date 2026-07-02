@@ -229,6 +229,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2398-check-if-matrix-is-x-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2398-check-if-matrix-is-x-matrix) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2448-count-number-of-bad-pairs) |
+| [2460-apply-operations-to-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2574-left-and-right-sum-differences) |
@@ -300,6 +301,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2392-successful-pairs-of-spells-and-potions) |
+| [2460-apply-operations-to-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2481-strictly-palindromic-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2481-strictly-palindromic-number) |
 | [2540-minimum-common-value](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2540-minimum-common-value) |
 | [2634-minimum-common-value](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2634-minimum-common-value) |
@@ -746,6 +748,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [2288-count-operations-to-obtain-zero](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [2460-apply-operations-to-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2460-apply-operations-to-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2470-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2553-separate-the-digits-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2679-sum-in-a-matrix) |
