@@ -202,6 +202,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1552-build-an-array-with-stack-operations](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1552-build-an-array-with-stack-operations) |
+| [1572-matrix-diagonal-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1580-shuffle-the-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1603-running-sum-of-1d-array) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -692,6 +693,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
+| [1572-matrix-diagonal-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1572-matrix-diagonal-sum) |
 | [1677-matrix-diagonal-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1677-matrix-diagonal-sum) |
 | [1704-special-positions-in-a-binary-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1704-special-positions-in-a-binary-matrix) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2132-convert-1d-array-into-2d-array) |
