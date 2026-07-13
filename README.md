@@ -168,6 +168,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0739-daily-temperatures](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0739-daily-temperatures) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0746-min-cost-climbing-stairs) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0792-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0792-binary-search) |
 | [0830-largest-triangle-area](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0830-largest-triangle-area) |
@@ -621,6 +622,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0719-find-k-th-smallest-pair-distance](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0719-find-k-th-smallest-pair-distance) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0769-max-chunks-to-make-sorted](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0769-max-chunks-to-make-sorted) |
 | [0853-car-fleet](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0853-car-fleet) |
 | [0922-sort-array-by-parity-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0922-sort-array-by-parity-ii) |
