@@ -199,6 +199,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1390-four-divisors](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1390-four-divisors) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1435-xor-queries-of-a-subarray) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [1496-lucky-numbers-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1496-lucky-numbers-in-a-matrix) |
@@ -634,6 +635,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1019-squares-of-a-sorted-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1019-squares-of-a-sorted-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -781,6 +783,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0948-sort-an-array) |
 | [1046-last-stone-weight](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1046-last-stone-weight) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2679-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2679-sum-in-a-matrix) |
 | [2728-sum-in-a-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/2728-sum-in-a-matrix) |
 ## Merge Sort
