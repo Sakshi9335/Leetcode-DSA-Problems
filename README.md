@@ -264,6 +264,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3616-make-array-elements-equal-to-zero](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
 | [3637-trionic-array-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3637-trionic-array-i) |
+| [3731-find-missing-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3731-find-missing-elements) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 | [4009-bitwise-or-of-even-numbers-in-an-array](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/4009-bitwise-or-of-even-numbers-in-an-array) |
 ## Two Pointers
@@ -364,6 +365,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3583-count-special-triplets](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3583-count-special-triplets) |
 | [3606-coupon-code-validator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3623-count-number-of-trapezoids-i) |
+| [3731-find-missing-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3731-find-missing-elements) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Dynamic Programming
 |  |
@@ -650,6 +652,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [3074-apple-redistribution-into-boxes](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3606-coupon-code-validator](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3606-coupon-code-validator) |
+| [3731-find-missing-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
 | ------- |
