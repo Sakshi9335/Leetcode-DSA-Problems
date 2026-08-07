@@ -1097,6 +1097,14 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0700-search-in-a-binary-search-tree) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0494-target-sum) |
+## 0-1 Knapsack
+|  |
+| ------- |
+| [0494-target-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0494-target-sum) |
 <!---LeetCode Topics End-->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1abc9c,100:27ae60&height=100&section=footer"/>
