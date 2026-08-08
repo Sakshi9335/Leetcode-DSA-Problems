@@ -1,23 +1,27 @@
 class Solution {
+       Set<List<Integer>> set = new HashSet<>();
+    List<List<Integer>> ans=new ArrayList<>();
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
-        List<List<Integer>> res = new ArrayList<List<Integer>>();
-        ArrayList<Integer> curr = new ArrayList<>();
-        recur(candidates,target, 0, curr, res );
-        return res;
+       List<Integer> list = new ArrayList<>();
+       helper(list,candidates,0,target);
+       return ans;
     }
-    public void recur( int[] candidates, int target, int i ,  ArrayList<Integer> curr,List<List<Integer>> res )
-    {
-         if(i == candidates.length){
-            if(target == 0){
-                res.add(new ArrayList<Integer>(curr));
-            }
-            return;
-         }
-         if(candidates[i] <= target){
-            curr.add(candidates[i]);
-             recur(candidates,target - candidates[i], i, curr, res );
-            curr.remove(curr.size()-1);
-         }
-          recur(candidates,target, i+1, curr, res );
+    public void helper(List<Integer>list,int[]arr,int i,int tar){
+             if(i==arr.length || tar<0)  return;
+                if(tar==0){
+                    if(!set.contains(list))
+                    ans.add(new ArrayList<>(list));
+                     set.add(new ArrayList<>(list));
+                return;
+                }
+
+        list.add(arr[i]);
+         helper(list,arr,i+1,tar-arr[i]);    // include single element 
+
+         helper(list,arr,i,tar-arr[i]);    // include multiple element 
+
+         list.remove(list.size()-1);   //backtrak
+          helper(list,arr,i+1,tar);   //exclude
+  
     }
 }
