@@ -156,6 +156,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0560-subarray-sum-equals-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0611-valid-triangle-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0628-maximum-product-of-three-numbers) |
+| [0643-maximum-average-subarray-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0645-set-mismatch) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0704-binary-search](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0704-binary-search) |
@@ -927,6 +928,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0219-contains-duplicate-ii) |
+| [0643-maximum-average-subarray-i](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0643-maximum-average-subarray-i) |
 | [0658-find-k-closest-elements](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0658-find-k-closest-elements) |
 | [0713-subarray-product-less-than-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
