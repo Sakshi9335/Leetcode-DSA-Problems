@@ -195,6 +195,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [1046-last-stone-weight](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1200-minimum-absolute-difference) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1266-minimum-time-visiting-all-points) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1390-four-divisors) |
@@ -933,6 +934,7 @@ This repository is updated automatically whenever I submit a solution on [LeetCo
 | [0713-subarray-product-less-than-k](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0713-subarray-product-less-than-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/0930-binary-subarrays-with-sum) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1004-max-consecutive-ones-iii) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Sakshi9335/Leetcode-DSA-Problems/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Combinatorics
 |  |
